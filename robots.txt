@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ovokueko.github.io/Snt/sitemap_index.txt
+Sitemap: https://ovokueko.github.io/eXL/sitemap_index.txt
+Sitemap: https://ovokueko.github.io/pmB/sitemap_index.txt
+Sitemap: https://ovokueko.github.io/tVn/sitemap_index.txt
